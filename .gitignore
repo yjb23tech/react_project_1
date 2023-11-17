@@ -3,3 +3,5 @@ node_modules/yallist/
 dist/
 package-lock.json
 package.json
+vite.config.js
+

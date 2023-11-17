@@ -1,10 +1,10 @@
-import {createRoot} from "react-dom/client";
+import { createRoot } from "react-dom/client";
 
 const App = () => {
     return (
         <h1>Sanity Check</h1>
-    )
-}
+    );
+};
 
 const container = document.getElementById("root")
 const root = createRoot(container)

@@ -1,11 +1,12 @@
 import { createRoot } from "react-dom/client";
 import NavBar from "./components/Navbar.jsx";
+import Main from "./components/Main.jsx";
 
 const App = () => {
     return (
         <div>
-            <h1>Sanity Check</h1>
             <NavBar />
+            <Main />
         </div>
     );
 };

@@ -38,9 +38,12 @@ nav {
     margin-right: 7px; 
 }
 
-.main {
+main {
     padding: 57px 27px;
     color: white;
+    background-image: url(../images/react-icon-large.png);
+    background-repeat: no-repeat;
+    background-position: right 75%;
 }
 
 .main--title {
